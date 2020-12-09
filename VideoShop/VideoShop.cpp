@@ -130,7 +130,8 @@ int main()
     */
 
 
-    videoShop FirstFilm = { "White sun of the desert" , "Vladimir Motyl" , "Studio of Mosfilm" , "Lenfilm-Mosfilm" , "Drama" , "SovietUnion" , "Russian" , 1970 ,  75 , 25.99 };
+    videoShop FirstFilm = { "White sun of the desert" , "Vladimir Motyl" , "Studio of Mosfilm" , "Lenfilm-Mosfilm" , 
+    "Drama" , "SovietUnion" , "Russian" , 1970 ,  75 , 25.99 };
     printInformationOfFilm(FirstFilm);
     //  Lenfilm-Mosfilm , Drama , Soviet Union , "Russian" };
     
